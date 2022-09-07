@@ -1,0 +1,32 @@
+body{
+  height: 100vh;
+  background-image: url(./photos/background1.jpg);
+  background-repeat: initial;
+  background-size: cover;
+  padding: 0%;
+  margin: 0%;
+}
+
+header{
+  padding: 3%;
+}
+
+.logo{
+  text-align: center;
+  padding-bottom: 35px;
+}
+
+.logoAss{
+  width: 100px;
+  height: 100px;
+  border-radius: 50% 50% 50% 50%;
+}
+
+.titleFirst{
+  color: white;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  text-align: center;
+  font-style: italic;
+  font-size: 2.3rem;
+  padding: 40px 0px 25px 0px;
+}
