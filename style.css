@@ -246,7 +246,7 @@ p{
 .containerEvenement{
   display: grid;
   grid-template-columns:  1fr 1fr;  
-  grid-template-rows: 200px 1fr 200px;
+  grid-template-rows: 160px 1fr 160px;
   grid-template-areas:  
   "ihg ihd"
   "mi mi"
@@ -255,19 +255,19 @@ p{
 
 .imageEvenement{
   width: 100%;
-  height: 180px;
+  height: 160px;
 }
 
 .imageHautG{
   grid-area: ihg;
   width: 100%;
-  height: 180px;
+  height: 160px;
 }
 
 .imageHautD{
   grid-area: ihd;
   width: 100%;
-  height: 180px;
+  height: 160px;
 }
 
 .containerMidle{
@@ -278,13 +278,13 @@ p{
 .imageBasG{
   grid-area: ibg;
   width: 100%;
-  height: 180px;
+  height: 160px;
 }
 
 .imageBasD{
   grid-area: ibd;
   width: 100%;
-  height: 180px;
+  height: 160px;
 }
 
 .titleFirstEvenement{
